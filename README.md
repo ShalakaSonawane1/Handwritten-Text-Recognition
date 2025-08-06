@@ -33,5 +33,3 @@ We built and trained a **Convolutional Neural Network (CNN)**, known for its **h
 ✔ **Convolutional Layers** – Extract features from the handwritten digits.  
 ✔ **Pooling Layers** – Reduce dimensionality while preserving important patterns.  
 ✔ **Fully Connected Layers** – Perform classification based on extracted features.  
-
-This version makes the project **GitHub-ready** with a structured README format. Let me know if you need additional sections or code snippets! 🚀
