@@ -25,7 +25,7 @@ Our system follows these steps:
 |------------------|-----------------|
 | Model Training  | TensorFlow, Keras |
 | Dataset         | MNIST Handwritten Digits |
-| Backend        | Python (Flask/Django) |
+| Backend        | Python (Flask) |
 | GUI Application | Tkinter, PyQt, Streamlit |
 
 ## **Model Architecture**  
